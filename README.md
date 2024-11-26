@@ -1,6 +1,6 @@
 # 👋 About Me
 
-Hi there! I'm **Akbar Widianto** 👨‍💻, an aspiring **AI Engineer** and a dedicated **Mobile Developer** with a robust foundation in **Artificial Intelligence**, **Machine Learning**, and **Mobile Application Development**. Currently pursuing a Diploma in **Management Informatics** at Politeknik Negeri Medan 🎓, I am passionate about leveraging technology to create inclusive, innovative, and impactful solutions.
+Hi there! I'm **Akbar Widianto** 👨‍💻, an aspiring **AI Engineer** and a dedicated **Mobile Developer** with a robust foundation in **Artificial Intelligence**, **Machine Learning**, and **Mobile Application Development**. I am passionate about leveraging technology to create inclusive, innovative, and impactful solutions.
 
 ---
 
