@@ -21,13 +21,6 @@ Hi there! I'm **Akbar Widianto** 👨‍💻, an aspiring **AI Engineer** and a 
 
 ---
 
-## 🔍 Currently Exploring
-- **Generative AI** for practical and creative applications.
-- Building **AI-powered mobile applications** to solve real-world challenges.
-- **Inclusive and accessible technology** to empower marginalized communities.
-
----
-
 ## 📫 Connect with Me
 - **LinkedIn**: [Akbar Widianto](https://www.linkedin.com/in/akbarwdnto/)
 - **Email**: [wdntakbr@gmail.com](mailto:wdntakbr@gmail.com)
