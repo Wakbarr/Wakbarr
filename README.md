@@ -11,7 +11,7 @@ Hi there! I'm **Akbar Widianto** 👨‍💻, an aspiring **AI Engineer** and a 
       <img src="https://github-readme-stats.vercel.app/api?username=Wakbarr&theme=synthwave&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
     </td>
     <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Wakbarr&theme=synthwave&hide_border=false" alt="GitHub Streak"/>
+      <img src="https://streak-stats.demolab.com/?user=Wakbarr&theme=synthwave&hide_border=false" alt="GitHub Streak"/>
     </td>
     <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wakbarr&theme=synthwave&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"/>
