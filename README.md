@@ -1,50 +1,46 @@
-# 👋 About Me
+# Akbar W | Software Engineer
 
-Hi there! I'm **Akbar Widianto** 👨‍💻, an aspiring **AI Engineer** and a dedicated **Mobile Developer** with a robust foundation in **Artificial Intelligence**, **Machine Learning**, and **Mobile Application Development**. I am passionate about leveraging technology to create inclusive, innovative, and impactful solutions.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akbarwdnto/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wdntakbr@gmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=Wakbarr&style=flat-square&color=blueviolet)](https://github.com/Wakbarr)
 
+## About Me
 
-## 📊 GitHub Stats
-<table>
-  <tr>
-    <td>
-      <img src="https://streak-stats.demolab.com/?user=Wakbarr&theme=synthwave&hide_border=false" alt="GitHub Streak"/>
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wakbarr&theme=synthwave&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"/>
-    </td>
-  </tr>
-</table>
+Mobile Developer specializing in creating intelligent, user-centric applications. My experience spans artificial intelligence, machine learning, and cross-platform mobile development, with a focus on building solutions that drive innovation and accessibility.
 
----
+## 🛠️ Tech Stack
 
-## 📫 Connect with Me
-- **LinkedIn**: [Akbar Widianto](https://www.linkedin.com/in/akbarwdnto/)
-- **Email**: [wdntakbr@gmail.com](mailto:wdntakbr@gmail.com)
+### Mobile Development
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 
----
+### AI & ML
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 
-# 💻 Tech Stack:
+### Tools & Others
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="30" alt="android logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="30" alt="kotlin logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="30" alt="dart logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="flutter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
+## 📊 GitHub Analytics
 
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wakbarr&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=Wakbarr&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
+
+## 💬 Let's Connect
+
+I'm always open to collaborating on projects and innovative ideas that make a difference. Feel free to reach out!
+
+[![LinkedIn](https://img.shields.io/badge/connect%20on%20linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akbarwdnto/)
+[![Email](https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wdntakbr@gmail.com)
+
 ---
 
-## 🌟 Fun Fact
-I believe technology should bridge gaps, foster inclusivity, and inspire innovation. Let’s collaborate to make a difference! 🌱
-
----
-[![](https://visitcount.itsvg.in/api?id=Wakbarr&icon=6&color=4)](https://visitcount.itsvg.in)
+> "Technology should bridge gaps, foster inclusivity, and inspire innovation."
