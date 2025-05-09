@@ -1,37 +1,57 @@
-# Akbar W | Software Engineer
+<div align="center">
+  <img height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExazl5b3BqaWI1eWRyM3l0N3Z6NDF6dDdoZTR5MTRuNnd4NjVwMTNxcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QUmpqPoJ886Iw/giphy.gif"  />
+</div>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akbarwdnto/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wdntakbr@gmail.com)
-[![Profile Views](https://komarev.com/ghpvc/?username=Wakbarr&style=flat-square&color=blueviolet)](https://github.com/Wakbarr)
+###
 
-## About Me
+###
+
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=discord&logo=discord&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=wakbarr.wakbarr&"  />
+</div>
+
+###
+
+<h1 align="center">Yoo, broo 👋</h1>
+
+###
+
+<h3 align="left">👩‍💻  About Me</h3>
+
+###
 
 Mobile Developer specializing in creating intelligent, user-centric applications. My experience spans artificial intelligence, machine learning, and cross-platform mobile development, with a focus on building solutions that drive innovation and accessibility.
 
-## 🛠️ Tech Stack
+
+<h3 align="left">🛠 Tech Stack</h3>
 
 ### Mobile Development
-![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+[![Mobile Development](https://skillicons.dev/icons?i=kotlin,dart,flutter,swift&theme=dark)](https://skillicons.dev)
 
 ### AI & ML
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+[![AI & ML](https://skillicons.dev/icons?i=tensorflow,python,flask,pytorch&theme=dark)](https://skillicons.dev)
 
 ### Tools & Others
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,figma,postman&theme=light)](https://skillicons.dev)
 
-## 📊 GitHub Analytics
+
+<h3 align="left">🔥   My Stats :</h3>
+
+###
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wakbarr&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
-  <img src="https://streak-stats.demolab.com/?user=Wakbarr&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=wakbarr&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wakbarr&layout=pie" />
 </div>
+
+
 
 
 ## 💬 Let's Connect
@@ -39,8 +59,27 @@ Mobile Developer specializing in creating intelligent, user-centric applications
 I'm always open to collaborating on projects and innovative ideas that make a difference. Feel free to reach out!
 
 [![LinkedIn](https://img.shields.io/badge/connect%20on%20linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akbarwdnto/)
-[![Email](https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wdntakbr@gmail.com)
+
 
 ---
 
 > "Technology should bridge gaps, foster inclusivity, and inspire innovation."
+
+
+---
+
+###
+
+<img src="https://raw.githubusercontent.com/wakbarr/wakbarr/output/snake.svg" alt="Snake animation" />
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wakbarr/wakbarr/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/wakbarr/wakbarr/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/wakbarr/wakbarr/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+
