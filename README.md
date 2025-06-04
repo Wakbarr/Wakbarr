@@ -4,67 +4,172 @@
 
 ###
 
-###
-
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=discord&logo=discord&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+
+# Yo! I'm Akbar Widianto👋
+
+### 🚀 Software Engineer 
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7A7ADB&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+profile!;Full+Stack+Web+Developer;Always+learning+new+technologies;Building+amazing+digital+experiences)
+
 </div>
 
-###
+---
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=wakbarr.wakbarr&"  />
+
+## 🚀 About Me
+
 </div>
-
-###
-
-<h1 align="center">Yoo, broo 👋</h1>
-
-###
-
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-Mobile Developer specializing in creating intelligent, user-centric applications. My experience spans artificial intelligence, machine learning, and cross-platform mobile development, with a focus on building solutions that drive innovation and accessibility.
-
-
-<h3 align="left">🛠 Tech Stack</h3>
-
-### Mobile Development
-[![Mobile Development](https://skillicons.dev/icons?i=kotlin,dart,flutter,swift&theme=dark)](https://skillicons.dev)
-
-### AI & ML
-[![AI & ML](https://skillicons.dev/icons?i=tensorflow,python,flask,pytorch&theme=dark)](https://skillicons.dev)
-
-### Tools & Others
-[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,figma,postman&theme=light)](https://skillicons.dev)
-
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=wakbarr&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wakbarr&layout=pie" />
+
+<!-- Enhanced Typing Animation -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=BB86FC&center=true&vCenter=true&width=650&lines=Mobile+Developer+📱;Cloud+Enthusiast+☁️;Open+Source+Contributor+🚀;Problem+Solver+🧩;Always+Learning+%26+Growing+📚;Coffee+%E2%86%92+Code+Converter+☕" alt="Typing SVG" />
+
+<br>
+
+<!-- Decorative Stars -->
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30">
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30">
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30">
+
 </div>
-
-
-
-
-## 💬 Let's Connect
-
-I'm always open to collaborating on projects and innovative ideas that make a difference. Feel free to reach out!
-
-[![LinkedIn](https://img.shields.io/badge/connect%20on%20linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akbarwdnto/)
 
 
 ---
 
-> "Technology should bridge gaps, foster inclusivity, and inspire innovation."
+<div align="center">
 
+## 🔥 GitHub Stats
+
+</div>
+
+<div align="center">
+<table style="width: 100%; border-collapse: collapse;">
+<tr>
+
+<td style="width: 50%; padding: 5px;">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wakbarr&layout=pie" alt="Most Used Languages" style="width: 100%; max-width: 100%; height: auto;"/>
+</td>
+</tr>
+</table>l
+</div>
+
+<div align="center">
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Wakbarr&theme=transparent&hide_border=false&background=0D1117&border=BB86FC&stroke=BB86FC&ring=03DAC6&fire=CF6679&currStreakLabel=B3B3B3&sideLabels=B3B3B3&dates=8B949E&currStreakNum=BB86FC&sideNums=03DAC6)
+
+### 📈 Contribution Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Wakbarr&custom_title=Akbar's%20Contribution%20Graph&bg_color=0D1117&color=BB86FC&line=03DAC6&point=CF6679&area_color=BB86FC&title_color=B3B3B3&area=true&hide_border=false&border_color=30363D" alt="Contribution Graph" style="width: 100%; max-width: 100%; height: auto;" />
+
+</div>
+
+---
+
+<div align="center">
+
+## 🛠️ Tech Stack & Tools
+
+</div>
+
+<br>
+
+<div align="center">
+
+
+### 📱 Mobile Technologies
+
+<div style="display: flex; flex-wrap: wrap; justify-content: center; margin: 10px 0;">
+
+[![Mobile Development](https://skillicons.dev/icons?i=kotlin,dart,flutter,swift&theme=dark)](https://skillicons.dev)
+
+</div>
+
+### 🤖 ML Technologies
+
+<div style="display: flex; flex-wrap: wrap; justify-content: center; margin: 10px 0;">
+
+[![AI & ML](https://skillicons.dev/icons?i=tensorflow,python,flask,pytorch&theme=dark)](https://skillicons.dev)
+
+</div>
+
+### 🛠️ Tools & Platforms
+
+<div style="display: flex; flex-wrap: wrap; justify-content: center; margin: 10px 0;">
+
+[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,figma,postman&theme=light)](https://skillicons.dev)
+
+</div>
+
+
+</div>
+
+---
+
+<div align="center">
+
+## 🏆 GitHub Trophies
+
+</div>
+
+<div align="center">
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Wakbarr&theme=onestar&no-frame=true&no-bg=false&margin-w=4&row=1&column=7&title_color=BB86FC&text_color=B3B3B3&icon_color=03DAC6&bg_color=0D1117)
+
+</div>
+
+---
+
+<div align="center">
+
+## 🔗 Connect with Me
+
+</div>
+
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; padding: 10px;">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akbarwdnto/)
+
+
+</div>
+
+---
+
+<div align="center">
+
+## 💭 Random Dev Quote
+
+</div>
+
+<br>
+
+<div align="center">
+
+"Technology should bridge gaps, foster inclusivity, and inspire innovation."
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900" style="max-width: 100%; height: auto;">
+
+### 📊 Profile Analytics
+
+<div style="display: flex; flex-wrap: wrap; justify-content: center; margin: 10px 0;">
+
+![Profile Views](https://komarev.com/ghpvc/?username=Wakbarr&label=Profile%20views&color=BB86FC&style=for-the-badge)
+
+</div>
+
+<br>
+
+**Thanks for visiting! ⭐ Star some repositories if you found them interesting!**
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900" style="max-width: 100%; height: auto;">
 
 ---
 
@@ -83,3 +188,6 @@ I'm always open to collaborating on projects and innovative ideas that make a di
 ###
 
 
+<sub> Copyright @ 2025 [Akbar Widianto](https://github.com/Wakbarr)</sub>
+
+</div>
