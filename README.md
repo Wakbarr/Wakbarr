@@ -8,7 +8,7 @@
 
 # Yo! I'm Akbar Widianto👋
 
-### 🚀 Software Engineer 
+### Software Engineer 
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7A7ADB&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+profile!;Full+Stack+Web+Developer;Always+learning+new+technologies;Building+amazing+digital+experiences)
 
@@ -18,7 +18,7 @@
 
 <div align="center">
 
-## 🚀 About Me
+## About Me
 
 </div>
 
